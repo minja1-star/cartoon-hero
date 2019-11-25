@@ -4,22 +4,21 @@ html, body{
 }
 
 header{
-	background-color: lightblue;
+	background-color: #7FFFD4;
 	padding: 40px;
 	text-align: center;
 }
 
 h1{
-	font-size: 90px;
+	font-size: 70px;
 	color: white;
 }
 
 header img{
-	border-radius: 174px;
+	border-radius: 244px;
 	width: 300px;
-	border: 15px solid red;
+	border: 15px solid #CC0000;
 }
-
 
 .content{
 	max-width: 500px;
@@ -33,7 +32,7 @@ img.big-image{
 
 p.caption{
 	font-size: 16px;
-	color: lightgrey;
+	color: lightblue;
 	font-style: italic;
 }
 
@@ -62,7 +61,9 @@ footer ul li{
 	display: inline-block;
 	margin: 0 5px;
 }
-/*<header>
-			<img src="img/profile.jpg">
-			<h1>Ruska Kruska</h1>
-		</header>*/
+
+
+
+
+
+
